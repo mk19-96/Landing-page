@@ -1,3 +1,3 @@
 # Landing-page
 
-1st bigger project within Odin Project course.
+1st complete static webpage project within Odin Project course.
